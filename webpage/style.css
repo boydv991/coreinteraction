@@ -1,14 +1,11 @@
   #table{
      width:500px;
      height:100px;
-     border:1px;
      background: black;
      margin top: 20px;
      margin bottom: 20px;
      
   }
-  
-  
   
    #circle {
       width: 100px;
@@ -22,6 +19,7 @@
       float: left;
       display: table;
       line-height: 100px;
+      margin: 20px;
     }
     
    #circle2 {
@@ -30,6 +28,7 @@
       border-radius: 50px;
       background: rgb(0, 0, 204);
       display: table-cell;
+      margin top: 20px;
     }
     
    #circle3 {
@@ -38,4 +37,5 @@
       border-radius: 50px;
       background: rgb(255, 214, 51);
       display:table-cell;
+      margin: 20px;
     }

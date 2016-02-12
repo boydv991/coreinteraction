@@ -1,0 +1,31 @@
+*{
+    background-color:rgb(230, 204, 255);
+}
+
+
+#hola{
+    font-family: Arial;
+    font-size: 65px;
+    color:rgb(0, 204, 153);
+    font-weight:bold;
+}
+
+#smile
+{
+    font-family:Impact;
+    float:inherit;
+    font-size:440px;
+    color: white;
+    font-weight:bold;
+}
+
+span {
+    color: white;
+}
+a {
+    color: white;
+    display: inline-block;
+}
+a:hover, a:hover span {
+    color:rgb(0, 204, 153) ;
+}
