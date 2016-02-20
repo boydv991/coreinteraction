@@ -25,6 +25,7 @@ span {
 a {
     color: white;
     display: inline-block;
+    text-decoration: none;
 }
 a:hover, a:hover span {
     color:rgb(0, 204, 153) ;
